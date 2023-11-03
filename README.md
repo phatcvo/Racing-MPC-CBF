@@ -150,6 +150,6 @@ These allow to start nodes for the vehicle and corresponding controller. The arg
 
 ## References
 
-[1] [Autonomous racing with multiple vehicles using a parallelized optimization with safety guarantee using control barrier functions](hhttps://arxiv.org/abs/2112.06435)
+[1] [Autonomous racing with multiple vehicles using a parallelized optimization with safety guarantee using control barrier functions](https://arxiv.org/abs/2112.06435)
 
 [2] [Safety-critical model predictive control with discrete-time control barrier function](https://arxiv.org/abs/2007.11718)
